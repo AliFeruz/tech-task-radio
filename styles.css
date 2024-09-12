@@ -40,7 +40,7 @@ body {
   
   .radio-list {
     flex-grow: 1;
-    background-color: var(--gigas-100);
+    background-color: var(--gigas-150);
     overflow-y: auto;
     padding-bottom: 80px; 
   }
